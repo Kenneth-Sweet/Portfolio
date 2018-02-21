@@ -43,9 +43,13 @@ h1 {
     
 p {
     color: #fff;
-    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000,     -1px 0 0 #000;
+    
     margin:50px;
     color:white;
     font-weight:125;
     line-height:150%;
+}
+
+.lead {
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000,     -1px 0 0 #000;
 }
